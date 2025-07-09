@@ -166,3 +166,13 @@ footer {
 .footer-column {
   width: 50%;
 }
+footer input[type="text"], footer input[type="email"], footer textarea {
+  height: 64px;
+  border-radius: 5px;
+  background-color: white;
+  display: block;
+  width: 100%;
+  padding: 10px 20px;
+  margin-bottom: 24px;
+  border: none;
+}
